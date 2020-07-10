@@ -1,5 +1,5 @@
 ### Hi there 👋
-## ✨ Fun fact: I'm Dreamer ✨
+## ✨ I'm Dreamer ✨
 <!--
 **phamvutinh/phamvutinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
