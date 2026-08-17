@@ -2,4 +2,4 @@
 
 I'm a Frontend Engineer with over 6 years of building cool things.
 
-[GitHub](https://github.com/phamvutinh) · [LinkedIn](#https://www.linkedin.com/in/pham-vu-tinh) · [Email](mailto:phamvu.tinh99@gmail.com)
+[GitHub](https://github.com/phamvutinh) · [LinkedIn](https://www.linkedin.com/in/pham-vu-tinh) · [Email](mailto:phamvu.tinh99@gmail.com)
