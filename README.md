@@ -6,4 +6,4 @@ Hi guys, I'm **Pham Vu Tinh**. I am a JavaScript developer from Ho Chi Minh City
 I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
-[GitHub](https://github.com/phamvutinh) · [LinkedIn](https://www.linkedin.com/in/pham-vu-tinh) · [Email](mailto:phamvu.tinh99@gmail.com)
+[GitHub](https://github.com/phamvutinh) · [LinkedIn](https://www.linkedin.com/in/pham-vu-tinh) · [Email](mailto:phamvu.tinh99@gmail.com) · [Personal Website](https://tinhpham.dev)
